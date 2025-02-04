@@ -1,0 +1,6 @@
+# Ignore Venv, see requirements in requirements.txt
+.venv/
+!requirements.txt
+
+# Ignore System Environment Files
+.env
